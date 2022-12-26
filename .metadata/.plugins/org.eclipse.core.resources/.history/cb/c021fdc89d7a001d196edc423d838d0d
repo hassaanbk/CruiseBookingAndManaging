@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+	<meta charset="ISO-8859-1">
+
+	<title>Insert title here</title>
+
+</head>
+
+<body>
+
+	<form action="register" method="POST">
+
+		Employee ID : <input type="text" name="empId" /> 
+		<span th:if="${#fields.hasErrors('empId')}" th:errors="*{empId}"></span></br>
+
+		Employee Name : <input type="text" name="empName" />
+		<span th:if="${#fields.hasErrors('empName')}" th:errors="*{empName}"></span></br>
+
+		Username : <input type="text" name="username" />
+		<span th:if="${#fields.hasErrors('username')}" th:errors="*{username}"></span></br>
+
+		Password : <input type="password" name="password" />
+		<span th:if="${#fields.hasErrors('passowrd')}" th:errors="*{password}"></span></br>
+
+		<input type="submit" name="Add Employee" value="Register" />
+
+
+		<form action="login" method="POST">
+
+			Username : <input type="text" name="username" />
+			<span th:if="${#fields.hasErrors('username')}" th:errors="*{username}"></span><br />
+
+			Password : <input type="password" name="password" />
+			<span th:if="${#fields.hasErrors('password')}" th:errors="*{password}"></span><br />
+		
+
+			<input type="submit" name="Login" value="Login" />
+
+		</form>
+
+</body>
+
+</html>

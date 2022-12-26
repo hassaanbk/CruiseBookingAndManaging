@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Insert title here</title>
+
+</head>
+
+<body>
+
+      <form action="add" method="POST">
+
+      Booking ID : <input type="text" name="bookingId"/> </br>
+
+      Customer ID : <input type="text" name="custId"/></br>
+
+      Cruise ID : <input type="text" name="cruiseId"/></br>
+
+      Number of Guests : <input type="text" name="numberOfGuests"/></br>
+
+      Total Amount : <input type="text" name="totalAmount"/></br>
+      
+      Status : <input type="text" name="status"/></br>
+
+      <input type="submit" name="Add Employee"/>
+
+      </form>
+
+</body>
+
+</html>

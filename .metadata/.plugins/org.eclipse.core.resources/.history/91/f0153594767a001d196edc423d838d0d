@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Dashboard</title>
+
+</head>
+
+<body>
+	
+	<form action="add.html" method="POST">
+		<input type="submit" value="Add Cruise"/>
+	</form>
+	<form action="update" method="POST">
+		<input type="submit" value="Update Cruise"/>
+	</form>
+	<form action="view" method="POST">
+		<input type="submit" value="View all cruises"/>
+	</form>
+	<form action="delete" method="POST">
+		<input type="submit" value="Delete Cruise"/>
+	</form>
+</body>
+
+</html>

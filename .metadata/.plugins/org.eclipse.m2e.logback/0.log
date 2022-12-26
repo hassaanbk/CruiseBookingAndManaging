@@ -1,0 +1,984 @@
+2022-12-10 23:40:19,668 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-10 23:43:46,060 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-11 14:27:21,421 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-11 14:28:30,926 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:CustomerMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\pom.xml.
+2022-12-11 14:28:33,621 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerMicroService/src/main/java
+2022-12-11 14:28:33,621 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerMicroService/src/main/resources
+2022-12-11 14:28:33,628 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerMicroService/src/main/resources
+2022-12-11 14:28:33,635 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerMicroService/src/test/java
+2022-12-11 14:28:34,184 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-12-11 14:28:34,189 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-11 14:28:34,450 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:CustomerMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\pom.xml.
+2022-12-11 14:28:35,403 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerMicroService/src/main/java
+2022-12-11 14:28:35,403 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerMicroService/src/main/resources
+2022-12-11 14:28:35,404 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CustomerMicroService/src/main/resources
+2022-12-11 14:28:35,405 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CustomerMicroService/src/test/java
+2022-12-11 14:28:36,450 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2022-12-11 14:43:25,997 [Worker-20: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:CustomerMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\pom.xml.
+2022-12-11 14:43:26,991 [Worker-20: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 14:43:26,992 [Worker-20: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 14:43:26,998 [Worker-20: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:43:27,606 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:43:27,655 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:43:27,666 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:47:50,507 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:CustomerMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\pom.xml.
+2022-12-11 14:47:50,957 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.persistence:javax.persistence:jar:2.0.3 is missing, no dependency information available
+2022-12-11 14:47:51,742 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:47:51,759 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:47:51,765 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:47:53,167 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/javax/persistence/javax.persistence/2.0.3/javax.persistence-2.0.3-sources.jar
+2022-12-11 14:47:53,519 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/javax/persistence/javax.persistence/2.0.3/javax.persistence-2.0.3-sources.jar
+2022-12-11 14:47:53,766 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence/2.0.3/javax.persistence-2.0.3-sources.jar
+2022-12-11 14:47:53,782 [Worker-18: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for javax.persistence:javax.persistence:2.0.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.persistence:javax.persistence:jar:sources:2.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-11 14:49:17,860 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 14:49:17,861 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 14:49:17,865 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:51:10,613 [Worker-18: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:CustomerMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\pom.xml.
+2022-12-11 14:51:11,678 [Worker-18: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 14:51:11,679 [Worker-18: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 14:51:11,682 [Worker-18: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:51:12,195 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:51:12,217 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:51:12,225 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:53:29,661 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:CustomerMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\pom.xml.
+2022-12-11 14:53:31,002 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:53:31,022 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:53:31,029 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:53:32,273 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:53:32,281 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:53:32,289 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:54:00,113 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:54:00,120 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:54:00,123 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:54:55,948 [Worker-27: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:54:55,954 [Worker-27: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:54:55,958 [Worker-27: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 14:55:57,507 [Worker-28: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:55:57,516 [Worker-28: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 14:55:57,520 [Worker-28: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 15:01:02,579 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 15:01:02,580 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:01:02,587 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 15:01:14,991 [Worker-30: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:01:14,999 [Worker-30: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:01:15,004 [Worker-30: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 15:04:37,283 [Worker-35: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:04:37,289 [Worker-35: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 15:04:37,292 [Worker-35: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 15:05:34,440 [Worker-37: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:05:34,446 [Worker-37: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 15:05:34,448 [Worker-37: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 15:07:07,245 [Worker-38: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:07:07,254 [Worker-38: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:07:07,258 [Worker-38: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 15:08:31,957 [Worker-34: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:08:31,962 [Worker-34: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 15:08:31,964 [Worker-34: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 15:09:01,951 [Worker-36: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 15:09:01,957 [Worker-36: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 15:09:01,960 [Worker-36: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:10:22,097 [Worker-48: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:CustomerMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\pom.xml.
+2022-12-11 20:10:23,427 [Worker-48: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:10:23,428 [Worker-48: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:10:23,433 [Worker-48: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:10:24,340 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:10:24,356 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:10:24,363 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:10:24,771 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.0/spring-boot-starter-thymeleaf-3.0.0-sources.jar
+2022-12-11 20:10:25,190 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.0/spring-boot-starter-thymeleaf-3.0.0-sources.jar
+2022-12-11 20:10:25,438 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.0/spring-boot-starter-thymeleaf-3.0.0-sources.jar
+2022-12-11 20:10:25,500 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.0/spring-boot-starter-thymeleaf-3.0.0-sources.jar
+2022-12-11 20:10:25,507 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-thymeleaf:3.0.0
+2022-12-11 20:10:26,012 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/thymeleaf/thymeleaf-spring6/3.1.0.RELEASE/thymeleaf-spring6-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:26,282 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf-spring6/3.1.0.RELEASE/thymeleaf-spring6-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:26,374 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.0.RELEASE/thymeleaf-spring6-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:26,618 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.0.RELEASE/thymeleaf-spring6-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:26,622 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.thymeleaf:thymeleaf-spring6:3.1.0.RELEASE
+2022-12-11 20:10:27,179 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/thymeleaf/thymeleaf/3.1.0.RELEASE/thymeleaf-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:27,520 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf/3.1.0.RELEASE/thymeleaf-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:27,687 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.0.RELEASE/thymeleaf-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:28,063 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.0.RELEASE/thymeleaf-3.1.0.RELEASE-sources.jar
+2022-12-11 20:10:28,066 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.thymeleaf:thymeleaf:3.1.0.RELEASE
+2022-12-11 20:10:28,787 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:10:28,787 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:10:28,791 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:11:38,952 [Worker-45: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:11:38,961 [Worker-45: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:11:38,964 [Worker-45: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:14:04,284 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:14:04,293 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:14:04,324 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:16:02,337 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:16:02,338 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:16:02,342 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:16:13,517 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:16:13,517 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:16:13,520 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:19:27,375 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:19:27,389 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-11 20:19:27,397 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:23:04,424 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:23:04,435 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-11 20:23:04,438 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:28:31,226 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:28:31,233 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-11 20:28:31,238 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:29:27,337 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:29:27,337 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:29:27,341 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:30:19,705 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:30:19,706 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:30:19,709 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:31:05,490 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:31:05,490 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:31:05,494 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:31:21,676 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:31:21,676 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:31:21,680 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 20:32:20,394 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 20:32:20,395 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 20:32:20,399 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:00:03,548 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:00:03,557 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-11 21:00:03,562 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:01:57,700 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:01:57,701 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:01:57,704 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:06:12,751 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:06:12,758 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-11 21:06:12,764 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:09:55,816 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:09:55,816 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:09:55,820 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:22:42,031 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:22:42,031 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:22:42,036 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:24:36,058 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:24:36,069 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 21:24:36,077 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:26:26,870 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:26:26,879 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 21:26:26,884 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:27:03,629 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:27:03,636 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 21:27:03,641 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:27:29,128 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:27:29,137 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 21:27:29,140 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:29:54,505 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:29:54,513 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 21:29:54,519 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:32:07,430 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:32:07,437 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 21:32:07,442 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:33:20,534 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:33:20,541 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 21:33:20,546 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:36:30,053 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:36:30,053 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:36:30,058 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:38:46,921 [Worker-77: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:38:46,922 [Worker-77: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:38:46,927 [Worker-77: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:39:35,546 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:39:35,546 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:39:35,550 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:40:21,054 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:40:21,055 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:40:21,058 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:40:57,186 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:40:57,186 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:40:57,191 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:42:16,253 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:42:16,254 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:42:16,257 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:44:04,012 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:44:04,013 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:44:04,016 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:45:35,644 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:45:35,644 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:45:35,649 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 21:46:39,322 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 21:46:39,323 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 21:46:39,326 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:03:04,665 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:03:04,671 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-11 22:03:04,675 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:05:58,150 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:05:58,150 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:05:58,154 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:09:01,028 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:09:01,029 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:09:01,033 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:13:04,694 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:13:04,701 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-11 22:13:04,709 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:13:27,474 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:13:27,475 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:13:27,480 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:15:19,472 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:15:19,478 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-11 22:15:19,482 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:18:44,667 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:18:44,667 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:18:44,671 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:41:20,924 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:41:20,924 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-11 22:41:20,931 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:42:34,387 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:42:34,397 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-11 22:42:34,402 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:43:19,892 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:43:19,900 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-11 22:43:19,905 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:45:01,128 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:45:01,128 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:45:01,132 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:45:53,862 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:45:53,862 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:45:53,865 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:47:35,397 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:47:35,397 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:47:35,402 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 22:47:46,837 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-11 22:47:46,837 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 22:47:46,840 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 23:19:05,776 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 23:19:05,785 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-11 23:19:05,798 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 23:20:53,041 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 23:20:53,051 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-11 23:20:53,058 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 23:22:50,508 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 23:22:50,515 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-11 23:22:50,521 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 23:25:54,370 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 23:25:54,393 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-11 23:25:54,398 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 23:31:09,883 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 23:31:09,892 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-11 23:31:09,899 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-11 23:35:10,207 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-11 23:35:10,215 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-11 23:35:10,221 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:04:54,337 [Worker-100: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:04:54,359 [Worker-100: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:04:54,368 [Worker-100: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:07:00,316 [Worker-106: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:07:00,329 [Worker-106: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:07:00,339 [Worker-106: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:07:46,716 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:07:46,722 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:07:46,726 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:13:13,980 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:13:13,991 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:13:13,996 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:15:21,102 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:15:21,110 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:15:21,116 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:18:49,862 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:18:49,869 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:18:49,873 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:35:16,567 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:35:16,576 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:35:16,583 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:36:29,003 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 00:36:29,004 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:36:29,009 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:39:03,677 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:39:03,686 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:39:03,692 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:40:58,024 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 00:40:58,024 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:40:58,028 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:41:00,958 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 00:41:00,958 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:41:00,962 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:42:43,237 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 00:42:43,237 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:42:43,240 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:43:39,603 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 00:43:39,604 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:43:39,608 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:44:22,912 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 00:44:22,912 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:44:22,916 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:51:14,592 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:51:14,600 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:51:14,605 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:53:53,780 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:53:53,789 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:53:53,797 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:55:00,554 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 00:55:00,554 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:55:00,558 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:55:58,727 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:55:58,736 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:55:58,742 [Worker-123: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:58:09,342 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:58:09,352 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:58:09,360 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 00:59:25,684 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 00:59:25,690 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 00:59:25,694 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 01:00:58,232 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 01:00:58,243 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 01:00:58,247 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 16:39:49,899 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:AdminMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\pom.xml.
+2022-12-12 16:39:51,316 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0.pom
+2022-12-12 16:39:51,645 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0.pom
+2022-12-12 16:39:51,786 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0.pom
+2022-12-12 16:39:51,833 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0.pom
+2022-12-12 16:39:51,911 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0.pom
+2022-12-12 16:39:51,939 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0.pom
+2022-12-12 16:39:52,048 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/mongodb/bson/4.8.0/bson-4.8.0.pom
+2022-12-12 16:39:52,113 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/bson/4.8.0/bson-4.8.0.pom
+2022-12-12 16:39:52,144 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.0/bson-4.8.0.pom
+2022-12-12 16:39:52,171 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.0/bson-4.8.0.pom
+2022-12-12 16:39:52,271 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0.pom
+2022-12-12 16:39:52,337 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0.pom
+2022-12-12 16:39:52,361 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0.pom
+2022-12-12 16:39:52,414 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0.pom
+2022-12-12 16:39:52,523 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0.pom
+2022-12-12 16:39:52,592 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0.pom
+2022-12-12 16:39:52,623 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0.pom
+2022-12-12 16:39:52,654 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0.pom
+2022-12-12 16:39:52,749 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.pom
+2022-12-12 16:39:52,812 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.pom
+2022-12-12 16:39:52,858 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.pom
+2022-12-12 16:39:52,894 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.pom
+2022-12-12 16:39:52,989 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/data/spring-data-mongodb-parent/4.0.0/spring-data-mongodb-parent-4.0.0.pom
+2022-12-12 16:39:53,021 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb-parent/4.0.0/spring-data-mongodb-parent-4.0.0.pom
+2022-12-12 16:39:53,060 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb-parent/4.0.0/spring-data-mongodb-parent-4.0.0.pom
+2022-12-12 16:39:53,436 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0.pom
+2022-12-12 16:39:53,466 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0.pom
+2022-12-12 16:39:53,497 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0.pom
+2022-12-12 16:39:53,587 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0.pom
+2022-12-12 16:39:53,656 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0.pom
+2022-12-12 16:39:53,687 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0.pom
+2022-12-12 16:39:53,735 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0.pom
+2022-12-12 16:39:53,821 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final.pom
+2022-12-12 16:39:53,891 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final.pom
+2022-12-12 16:39:53,936 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final.pom
+2022-12-12 16:39:53,962 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final.pom
+2022-12-12 16:39:54,054 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-parent/4.1.85.Final/netty-parent-4.1.85.Final.pom
+2022-12-12 16:39:54,121 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-parent/4.1.85.Final/netty-parent-4.1.85.Final.pom
+2022-12-12 16:39:54,151 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.85.Final/netty-parent-4.1.85.Final.pom
+2022-12-12 16:39:54,235 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.85.Final/netty-parent-4.1.85.Final.pom
+2022-12-12 16:39:54,338 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final.pom
+2022-12-12 16:39:54,404 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final.pom
+2022-12-12 16:39:54,436 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final.pom
+2022-12-12 16:39:54,482 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final.pom
+2022-12-12 16:39:54,581 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final.pom
+2022-12-12 16:39:54,646 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final.pom
+2022-12-12 16:39:54,728 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final.pom
+2022-12-12 16:39:54,758 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final.pom
+2022-12-12 16:39:54,854 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final.pom
+2022-12-12 16:39:54,890 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final.pom
+2022-12-12 16:39:54,935 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final.pom
+2022-12-12 16:39:55,032 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final.pom
+2022-12-12 16:39:55,101 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final.pom
+2022-12-12 16:39:55,125 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final.pom
+2022-12-12 16:39:55,162 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final.pom
+2022-12-12 16:39:55,254 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final.pom
+2022-12-12 16:39:55,316 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final.pom
+2022-12-12 16:39:55,368 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final.pom
+2022-12-12 16:39:55,395 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final.pom
+2022-12-12 16:39:55,496 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final.pom
+2022-12-12 16:39:55,561 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final.pom
+2022-12-12 16:39:55,588 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final.pom
+2022-12-12 16:39:55,613 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final.pom
+2022-12-12 16:39:55,738 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final.pom
+2022-12-12 16:39:55,807 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final.pom
+2022-12-12 16:39:55,832 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final.pom
+2022-12-12 16:39:55,866 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final.pom
+2022-12-12 16:39:55,963 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final.pom
+2022-12-12 16:39:56,028 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final.pom
+2022-12-12 16:39:56,060 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final.pom
+2022-12-12 16:39:56,087 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final.pom
+2022-12-12 16:39:56,182 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,252 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,275 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,304 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,398 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,463 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,493 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,524 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final.pom
+2022-12-12 16:39:56,618 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final.pom
+2022-12-12 16:39:56,688 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final.pom
+2022-12-12 16:39:56,722 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final.pom
+2022-12-12 16:39:56,758 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final.pom
+2022-12-12 16:39:56,857 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final.pom
+2022-12-12 16:39:56,926 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final.pom
+2022-12-12 16:39:56,950 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final.pom
+2022-12-12 16:39:56,978 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final.pom
+2022-12-12 16:39:57,073 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final.pom
+2022-12-12 16:39:57,158 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final.pom
+2022-12-12 16:39:57,190 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final.pom
+2022-12-12 16:39:57,232 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final.pom
+2022-12-12 16:39:57,322 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final.pom
+2022-12-12 16:39:57,363 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final.pom
+2022-12-12 16:39:57,389 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final.pom
+2022-12-12 16:39:57,488 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0.pom
+2022-12-12 16:39:57,553 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0.pom
+2022-12-12 16:39:57,580 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0.pom
+2022-12-12 16:39:57,607 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0.pom
+2022-12-12 16:39:57,704 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final.pom
+2022-12-12 16:39:57,769 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final.pom
+2022-12-12 16:39:57,797 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final.pom
+2022-12-12 16:39:57,827 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final.pom
+2022-12-12 16:39:57,928 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final.pom
+2022-12-12 16:39:57,990 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final.pom
+2022-12-12 16:39:58,022 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final.pom
+2022-12-12 16:39:58,054 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final.pom
+2022-12-12 16:39:58,155 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2.pom
+2022-12-12 16:39:58,226 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2.pom
+2022-12-12 16:39:58,253 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2.pom
+2022-12-12 16:39:58,283 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2.pom
+2022-12-12 16:40:00,192 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/bson/4.8.0/bson-4.8.0.jar
+2022-12-12 16:40:00,252 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.jar
+2022-12-12 16:40:00,309 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0/spring-boot-starter-webflux-3.0.0.jar
+2022-12-12 16:40:00,365 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0.jar
+2022-12-12 16:40:00,406 [AetherRepositoryConnector-repo.spring.io-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0.jar
+2022-12-12 16:40:00,406 [AetherRepositoryConnector-repo.spring.io-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0.jar
+2022-12-12 16:40:00,413 [AetherRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0.jar
+2022-12-12 16:40:00,414 [AetherRepositoryConnector-repo.spring.io-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0.jar
+2022-12-12 16:40:00,421 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0.jar
+2022-12-12 16:40:00,469 [AetherRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final.jar
+2022-12-12 16:40:00,469 [AetherRepositoryConnector-repo.spring.io-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final.jar
+2022-12-12 16:40:00,470 [AetherRepositoryConnector-repo.spring.io-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final.jar
+2022-12-12 16:40:00,472 [AetherRepositoryConnector-repo.spring.io-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final.jar
+2022-12-12 16:40:00,489 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final.jar
+2022-12-12 16:40:00,548 [AetherRepositoryConnector-repo.spring.io-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final.jar
+2022-12-12 16:40:00,563 [AetherRepositoryConnector-repo.spring.io-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final.jar
+2022-12-12 16:40:00,563 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final.jar
+2022-12-12 16:40:00,563 [AetherRepositoryConnector-repo.spring.io-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final.jar
+2022-12-12 16:40:00,563 [AetherRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final.jar
+2022-12-12 16:40:00,621 [AetherRepositoryConnector-repo.spring.io-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-osx-x86_64.jar
+2022-12-12 16:40:00,627 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final-linux-x86_64.jar
+2022-12-12 16:40:00,632 [AetherRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final.jar
+2022-12-12 16:40:00,632 [AetherRepositoryConnector-repo.spring.io-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final.jar
+2022-12-12 16:40:00,636 [AetherRepositoryConnector-repo.spring.io-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final.jar
+2022-12-12 16:40:00,679 [AetherRepositoryConnector-repo.spring.io-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0.jar
+2022-12-12 16:40:00,690 [AetherRepositoryConnector-repo.spring.io-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final.jar
+2022-12-12 16:40:00,691 [AetherRepositoryConnector-repo.spring.io-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2.jar
+2022-12-12 16:40:00,693 [AetherRepositoryConnector-repo.spring.io-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar
+2022-12-12 16:40:00,694 [AetherRepositoryConnector-repo.spring.io-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final.jar
+2022-12-12 16:40:00,760 [AetherRepositoryConnector-repo.spring.io-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/reactor-test/3.5.0/reactor-test-3.5.0.jar
+2022-12-12 16:40:00,925 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0.jar
+2022-12-12 16:40:00,953 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0.jar
+2022-12-12 16:40:00,955 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0.jar
+2022-12-12 16:40:00,971 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.0/bson-4.8.0.jar
+2022-12-12 16:40:01,057 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0.jar
+2022-12-12 16:40:01,168 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0.jar
+2022-12-12 16:40:01,225 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0.jar
+2022-12-12 16:40:01,441 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0.jar
+2022-12-12 16:40:01,542 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.jar
+2022-12-12 16:40:01,694 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.0/spring-boot-starter-webflux-3.0.0.jar
+2022-12-12 16:40:01,753 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.0/bson-4.8.0.jar
+2022-12-12 16:40:01,829 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0.jar
+2022-12-12 16:40:02,067 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.0/spring-boot-starter-webflux-3.0.0.jar
+2022-12-12 16:40:02,090 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0.jar
+2022-12-12 16:40:02,161 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0.jar
+2022-12-12 16:40:02,161 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0.jar
+2022-12-12 16:40:02,476 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final.jar
+2022-12-12 16:40:02,568 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final.jar
+2022-12-12 16:40:02,568 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final.jar
+2022-12-12 16:40:02,776 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0.jar
+2022-12-12 16:40:02,881 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0.jar
+2022-12-12 16:40:02,999 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final.jar
+2022-12-12 16:40:03,348 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final.jar
+2022-12-12 16:40:03,357 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final.jar
+2022-12-12 16:40:03,357 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final.jar
+2022-12-12 16:40:03,459 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final.jar
+2022-12-12 16:40:03,466 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final.jar
+2022-12-12 16:40:03,467 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final.jar
+2022-12-12 16:40:03,494 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final.jar
+2022-12-12 16:40:03,683 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final.jar
+2022-12-12 16:40:03,708 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final.jar
+2022-12-12 16:40:03,728 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final.jar
+2022-12-12 16:40:03,732 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final.jar
+2022-12-12 16:40:03,753 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final.jar
+2022-12-12 16:40:03,769 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final.jar
+2022-12-12 16:40:03,775 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-osx-x86_64.jar
+2022-12-12 16:40:03,784 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final.jar
+2022-12-12 16:40:03,810 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final.jar
+2022-12-12 16:40:03,818 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final-linux-x86_64.jar
+2022-12-12 16:40:03,834 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final.jar
+2022-12-12 16:40:03,876 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-osx-x86_64.jar
+2022-12-12 16:40:03,880 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final.jar
+2022-12-12 16:40:03,904 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final.jar
+2022-12-12 16:40:03,932 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final.jar
+2022-12-12 16:40:03,932 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final-linux-x86_64.jar
+2022-12-12 16:40:03,956 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0.jar
+2022-12-12 16:40:04,071 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final.jar
+2022-12-12 16:40:04,083 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final.jar
+2022-12-12 16:40:04,083 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final.jar
+2022-12-12 16:40:04,117 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final.jar
+2022-12-12 16:40:04,155 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2.jar
+2022-12-12 16:40:04,165 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final.jar
+2022-12-12 16:40:04,167 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0.jar
+2022-12-12 16:40:04,289 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar
+2022-12-12 16:40:04,297 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final.jar
+2022-12-12 16:40:04,418 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.0/reactor-test-3.5.0.jar
+2022-12-12 16:40:04,515 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final.jar
+2022-12-12 16:40:04,573 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2.jar
+2022-12-12 16:40:04,747 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.0/reactor-test-3.5.0.jar
+2022-12-12 16:40:04,774 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar
+2022-12-12 16:40:05,980 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AdminMicroService/src/main/java
+2022-12-12 16:40:05,981 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AdminMicroService/src/main/resources
+2022-12-12 16:40:05,993 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AdminMicroService/src/main/resources
+2022-12-12 16:40:06,006 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AdminMicroService/src/test/java
+2022-12-12 16:40:06,729 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0-sources.jar
+2022-12-12 16:40:07,036 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0-sources.jar
+2022-12-12 16:40:07,151 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0-sources.jar
+2022-12-12 16:40:07,209 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/3.0.0/spring-boot-starter-data-mongodb-reactive-3.0.0-sources.jar
+2022-12-12 16:40:07,220 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-mongodb-reactive:3.0.0
+2022-12-12 16:40:07,697 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0-sources.jar
+2022-12-12 16:40:07,923 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0-sources.jar
+2022-12-12 16:40:08,027 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0-sources.jar
+2022-12-12 16:40:08,118 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-reactivestreams/4.8.0/mongodb-driver-reactivestreams-4.8.0-sources.jar
+2022-12-12 16:40:08,126 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-reactivestreams:4.8.0
+2022-12-12 16:40:08,187 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2022-12-12 16:40:08,188 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-12 16:40:08,408 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:AdminMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\pom.xml.
+2022-12-12 16:40:08,600 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/mongodb/bson/4.8.0/bson-4.8.0-sources.jar
+2022-12-12 16:40:08,909 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/bson/4.8.0/bson-4.8.0-sources.jar
+2022-12-12 16:40:09,028 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.0/bson-4.8.0-sources.jar
+2022-12-12 16:40:09,244 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson/4.8.0/bson-4.8.0-sources.jar
+2022-12-12 16:40:09,250 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:bson:4.8.0
+2022-12-12 16:40:09,723 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0-sources.jar
+2022-12-12 16:40:09,886 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AdminMicroService/src/main/java
+2022-12-12 16:40:09,886 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AdminMicroService/src/main/resources
+2022-12-12 16:40:09,886 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AdminMicroService/src/main/resources
+2022-12-12 16:40:09,887 [Worker-138: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AdminMicroService/src/test/java
+2022-12-12 16:40:10,014 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0-sources.jar
+2022-12-12 16:40:10,110 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0-sources.jar
+2022-12-12 16:40:10,487 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/mongodb-driver-core/4.8.0/mongodb-driver-core-4.8.0-sources.jar
+2022-12-12 16:40:10,491 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongodb-driver-core:4.8.0
+2022-12-12 16:40:10,699 [Worker-138: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2022-12-12 16:40:10,956 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0-sources.jar
+2022-12-12 16:40:11,238 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0-sources.jar
+2022-12-12 16:40:11,335 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0-sources.jar
+2022-12-12 16:40:11,408 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mongodb/bson-record-codec/4.8.0/bson-record-codec-4.8.0-sources.jar
+2022-12-12 16:40:11,411 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:bson-record-codec:4.8.0
+2022-12-12 16:40:11,886 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0-sources.jar
+2022-12-12 16:40:12,214 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0-sources.jar
+2022-12-12 16:40:12,337 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0-sources.jar
+2022-12-12 16:40:12,704 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-mongodb/4.0.0/spring-data-mongodb-4.0.0-sources.jar
+2022-12-12 16:40:12,708 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-mongodb:4.0.0
+2022-12-12 16:40:13,175 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-webflux/3.0.0/spring-boot-starter-webflux-3.0.0-sources.jar
+2022-12-12 16:40:13,465 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/3.0.0/spring-boot-starter-webflux-3.0.0-sources.jar
+2022-12-12 16:40:13,565 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.0/spring-boot-starter-webflux-3.0.0-sources.jar
+2022-12-12 16:40:13,615 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webflux/3.0.0/spring-boot-starter-webflux-3.0.0-sources.jar
+2022-12-12 16:40:13,618 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webflux:3.0.0
+2022-12-12 16:40:14,089 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0-sources.jar
+2022-12-12 16:40:14,374 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0-sources.jar
+2022-12-12 16:40:14,484 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0-sources.jar
+2022-12-12 16:40:14,539 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-reactor-netty/3.0.0/spring-boot-starter-reactor-netty-3.0.0-sources.jar
+2022-12-12 16:40:14,544 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-reactor-netty:3.0.0
+2022-12-12 16:40:15,004 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0-sources.jar
+2022-12-12 16:40:15,308 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0-sources.jar
+2022-12-12 16:40:15,421 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0-sources.jar
+2022-12-12 16:40:15,518 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-http/1.1.0/reactor-netty-http-1.1.0-sources.jar
+2022-12-12 16:40:15,522 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-http:1.1.0
+2022-12-12 16:40:15,991 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final-sources.jar
+2022-12-12 16:40:16,297 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final-sources.jar
+2022-12-12 16:40:16,395 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final-sources.jar
+2022-12-12 16:40:16,535 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.85.Final/netty-codec-http-4.1.85.Final-sources.jar
+2022-12-12 16:40:16,538 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http:4.1.85.Final
+2022-12-12 16:40:16,997 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:17,280 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:17,376 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:17,533 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.85.Final/netty-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:17,537 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.85.Final
+2022-12-12 16:40:18,019 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final-sources.jar
+2022-12-12 16:40:18,308 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final-sources.jar
+2022-12-12 16:40:18,410 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final-sources.jar
+2022-12-12 16:40:18,492 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.85.Final/netty-buffer-4.1.85.Final-sources.jar
+2022-12-12 16:40:18,495 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.85.Final
+2022-12-12 16:40:18,871 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final-sources.jar
+2022-12-12 16:40:19,089 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final-sources.jar
+2022-12-12 16:40:19,172 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final-sources.jar
+2022-12-12 16:40:19,277 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.85.Final/netty-transport-4.1.85.Final-sources.jar
+2022-12-12 16:40:19,280 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.85.Final
+2022-12-12 16:40:19,747 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final-sources.jar
+2022-12-12 16:40:20,015 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final-sources.jar
+2022-12-12 16:40:20,103 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final-sources.jar
+2022-12-12 16:40:20,204 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.85.Final/netty-codec-4.1.85.Final-sources.jar
+2022-12-12 16:40:20,207 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.85.Final
+2022-12-12 16:40:20,660 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final-sources.jar
+2022-12-12 16:40:20,945 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final-sources.jar
+2022-12-12 16:40:21,035 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final-sources.jar
+2022-12-12 16:40:21,145 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.85.Final/netty-handler-4.1.85.Final-sources.jar
+2022-12-12 16:40:21,149 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.85.Final
+2022-12-12 16:40:21,636 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final-sources.jar
+2022-12-12 16:40:21,890 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final-sources.jar
+2022-12-12 16:40:22,006 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final-sources.jar
+2022-12-12 16:40:22,125 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.85.Final/netty-codec-http2-4.1.85.Final-sources.jar
+2022-12-12 16:40:22,132 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-http2:4.1.85.Final
+2022-12-12 16:40:22,591 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:22,866 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:22,959 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:23,029 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns/4.1.85.Final/netty-resolver-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:23,035 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns:4.1.85.Final
+2022-12-12 16:40:23,498 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final-sources.jar
+2022-12-12 16:40:23,804 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final-sources.jar
+2022-12-12 16:40:23,903 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final-sources.jar
+2022-12-12 16:40:24,112 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.85.Final/netty-resolver-4.1.85.Final-sources.jar
+2022-12-12 16:40:24,117 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.85.Final
+2022-12-12 16:40:24,578 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:24,892 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:25,014 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:25,086 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-dns/4.1.85.Final/netty-codec-dns-4.1.85.Final-sources.jar
+2022-12-12 16:40:25,093 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-dns:4.1.85.Final
+2022-12-12 16:40:25,546 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-sources.jar
+2022-12-12 16:40:25,849 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-sources.jar
+2022-12-12 16:40:25,936 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-sources.jar
+2022-12-12 16:40:25,939 [Worker-140: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.netty:netty-resolver-dns-native-macos:4.1.85.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:sources:4.1.85.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-12 16:40:26,392 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final-sources.jar
+2022-12-12 16:40:26,671 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final-sources.jar
+2022-12-12 16:40:26,757 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final-sources.jar
+2022-12-12 16:40:26,824 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-classes-macos/4.1.85.Final/netty-resolver-dns-classes-macos-4.1.85.Final-sources.jar
+2022-12-12 16:40:26,829 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver-dns-classes-macos:4.1.85.Final
+2022-12-12 16:40:27,290 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:27,572 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:27,695 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:27,797 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-epoll/4.1.85.Final/netty-transport-native-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:27,803 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.85.Finallinux-x86_64
+2022-12-12 16:40:28,291 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:28,580 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:28,674 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:28,752 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-native-unix-common/4.1.85.Final/netty-transport-native-unix-common-4.1.85.Final-sources.jar
+2022-12-12 16:40:28,758 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.85.Final
+2022-12-12 16:40:29,270 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:29,599 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:29,720 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:29,878 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-transport-classes-epoll/4.1.85.Final/netty-transport-classes-epoll-4.1.85.Final-sources.jar
+2022-12-12 16:40:29,882 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.85.Final
+2022-12-12 16:40:30,411 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0-sources.jar
+2022-12-12 16:40:31,196 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0-sources.jar
+2022-12-12 16:40:31,292 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0-sources.jar
+2022-12-12 16:40:31,444 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/netty/reactor-netty-core/1.1.0/reactor-netty-core-1.1.0-sources.jar
+2022-12-12 16:40:31,448 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.netty:reactor-netty-core:1.1.0
+2022-12-12 16:40:31,940 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final-sources.jar
+2022-12-12 16:40:32,179 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final-sources.jar
+2022-12-12 16:40:32,293 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final-sources.jar
+2022-12-12 16:40:32,368 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.85.Final/netty-handler-proxy-4.1.85.Final-sources.jar
+2022-12-12 16:40:32,371 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler-proxy:4.1.85.Final
+2022-12-12 16:40:32,847 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final-sources.jar
+2022-12-12 16:40:33,133 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final-sources.jar
+2022-12-12 16:40:33,230 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final-sources.jar
+2022-12-12 16:40:33,304 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.85.Final/netty-codec-socks-4.1.85.Final-sources.jar
+2022-12-12 16:40:33,307 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec-socks:4.1.85.Final
+2022-12-12 16:40:33,781 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2-sources.jar
+2022-12-12 16:40:34,083 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2-sources.jar
+2022-12-12 16:40:34,192 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2-sources.jar
+2022-12-12 16:40:34,443 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webflux/6.0.2/spring-webflux-6.0.2-sources.jar
+2022-12-12 16:40:34,446 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webflux:6.0.2
+2022-12-12 16:40:34,907 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-12-12 16:40:35,190 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-12-12 16:40:35,290 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-12-12 16:40:35,667 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-12-12 16:40:35,669 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.24
+2022-12-12 16:40:36,056 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/projectreactor/reactor-test/3.5.0/reactor-test-3.5.0-sources.jar
+2022-12-12 16:40:36,344 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/reactor-test/3.5.0/reactor-test-3.5.0-sources.jar
+2022-12-12 16:40:36,459 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.0/reactor-test-3.5.0-sources.jar
+2022-12-12 16:40:36,525 [Worker-140: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-test/3.5.0/reactor-test-3.5.0-sources.jar
+2022-12-12 16:40:36,528 [Worker-140: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-test:3.5.0
+2022-12-12 17:05:59,008 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-javadoc.jar
+2022-12-12 17:05:59,344 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-javadoc.jar
+2022-12-12 17:05:59,530 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-resolver-dns-native-macos/4.1.85.Final/netty-resolver-dns-native-macos-4.1.85.Final-javadoc.jar
+2022-12-12 17:05:59,532 [Worker-0: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.netty:netty-resolver-dns-native-macos:4.1.85.Finalosx-x86_64
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.netty:netty-resolver-dns-native-macos:jar:javadoc:4.1.85.Final
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-12 17:09:54,504 [Worker-149: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.micro:AdminMicroService:0.0.1-SNAPSHOT @ C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\pom.xml.
+2022-12-12 17:09:55,610 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:09:55,610 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:09:55,612 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:09:56,864 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:09:56,882 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:09:56,885 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:11:19,681 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:11:19,688 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:11:19,690 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:12:09,327 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:12:09,333 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:12:09,335 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:12:50,972 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:12:50,982 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:12:50,985 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:13:39,121 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:13:39,129 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:13:39,133 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:14:27,282 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:14:27,291 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:14:27,294 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:27:49,260 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:27:49,269 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:27:49,274 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:30:23,320 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:30:23,327 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:30:23,329 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:38:06,297 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:38:06,306 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:38:06,310 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:40:50,328 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:40:50,328 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:40:50,332 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:41:43,349 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:41:43,357 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:41:43,363 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:41:59,317 [Worker-151: Launching AdminMicroService - AdminMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:41:59,323 [Worker-151: Launching AdminMicroService - AdminMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:41:59,328 [Worker-151: Launching AdminMicroService - AdminMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:42:41,108 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:42:41,114 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:42:41,116 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 17:56:46,379 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 17:56:46,379 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 17:56:46,383 [Worker-163: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:00:11,204 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:00:11,213 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-12 18:00:11,221 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:12:16,303 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:12:16,318 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-12 18:12:16,323 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:35:30,523 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 18:35:30,523 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:35:30,527 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:39:00,128 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:39:00,141 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 18:39:00,149 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:40:23,232 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:40:23,243 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 18:40:23,247 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:42:03,596 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:42:03,609 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 18:42:03,614 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:43:17,627 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:43:17,635 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 18:43:17,640 [Worker-172: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:51:17,237 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:51:17,245 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 18:51:17,250 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:56:30,596 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:56:30,604 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 18:56:30,607 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:57:19,643 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 18:57:19,643 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:57:19,657 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:57:28,519 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 18:57:28,519 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:57:28,523 [Worker-169: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:57:30,629 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 18:57:30,629 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:57:30,633 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 18:57:41,663 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 18:57:41,669 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 18:57:41,672 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 22:23:17,817 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 22:23:17,848 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 22:23:17,856 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 22:27:51,991 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 22:27:52,001 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 22:27:52,007 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 22:29:21,960 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 22:29:21,987 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 22:29:21,991 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 22:42:00,285 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 22:42:00,294 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 22:42:00,297 [Worker-183: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 22:43:55,232 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 22:43:55,240 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 22:43:55,242 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 22:55:14,269 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 22:55:14,277 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 22:55:14,282 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 22:59:24,850 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 22:59:24,859 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 22:59:24,864 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:14:58,440 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:14:58,441 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 23:14:58,454 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:14:58,563 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:14:58,579 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 23:14:58,592 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:17:40,526 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:17:40,526 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:17:40,531 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:21:41,922 [Worker-179: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:21:41,922 [Worker-179: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 23:21:41,931 [Worker-179: Launching CustomerMicroService - CustomerMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:22:42,038 [Worker-190: Launching AdminMicroService - AdminMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:22:42,038 [Worker-190: Launching AdminMicroService - AdminMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2022-12-12 23:22:42,046 [Worker-190: Launching AdminMicroService - AdminMicroServiceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:24:33,611 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:24:33,612 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2022-12-12 23:24:33,623 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:26:20,759 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:26:20,759 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 23:26:20,771 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:26:20,801 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:26:20,801 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 23:26:20,818 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:28:02,847 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:28:02,847 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:28:02,851 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:28:13,127 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:28:13,128 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:28:13,131 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:28:37,350 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:28:37,350 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:28:37,354 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:28:52,227 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:28:52,227 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:28:52,232 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:30:29,044 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:30:29,044 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:30:29,048 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:31:01,354 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:31:01,355 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:31:01,359 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:31:38,693 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:31:38,694 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:31:38,698 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:32:20,106 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:32:20,107 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:32:20,110 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:33:32,796 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:33:32,796 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:33:32,801 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:34:02,368 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:34:02,368 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:34:02,372 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:34:20,476 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:34:20,476 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:34:20,481 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:34:28,824 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:34:28,825 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:34:28,829 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:37:36,283 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:37:36,292 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 23:37:36,295 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:37:36,352 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:37:36,360 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-12 23:37:36,365 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:38:05,603 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:38:05,603 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:38:05,607 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:39:08,177 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:39:08,180 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:39:08,183 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:39:40,051 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:39:40,051 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:39:40,055 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:40:01,746 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:40:01,746 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:40:01,752 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:41:00,996 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:41:00,996 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:41:01,001 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:41:25,878 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:41:25,878 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:41:25,882 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:42:14,945 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:42:14,945 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:42:14,950 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:42:38,051 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:42:38,051 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:42:38,055 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:43:49,010 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:43:49,011 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:43:49,014 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:44:24,394 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:44:24,394 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:44:24,397 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:45:02,622 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:45:02,622 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:45:02,627 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:45:51,187 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:45:51,188 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:45:51,192 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources
+2022-12-12 23:46:46,908 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:46:46,908 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:46:46,912 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:47:08,863 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:47:08,864 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:47:08,868 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:47:24,040 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:47:24,040 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:47:24,045 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:48:24,502 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:48:24,504 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:48:24,507 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:48:56,726 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:48:56,726 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:48:56,730 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:49:52,019 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:49:52,020 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:49:52,028 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:50:40,159 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:50:40,170 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources
+2022-12-12 23:50:40,174 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:52:50,268 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:52:50,269 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:52:50,273 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-12 23:53:05,170 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-12 23:53:05,171 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-12 23:53:05,175 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\AdminMicroService\src\test\resources
+2022-12-13 00:02:40,919 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-13 00:02:40,926 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2022-12-13 00:02:40,933 [Worker-197: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Course Work\Java EE Programming\Assignments\Assignment 4\CustomerMicroService\src\test\resources

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Employee list</title>
+
+</head>
+
+<body>
+	Customer ID: <b th:text="${customer.custId}"></b>
+	First Name: <b th:text="${customer.firstName}"></b>
+	Last Name: <b th:text="${customer.lastName}"></p>
+	Address: <b th:text="${customer.Address}"></b>
+	City: <b th:text="${customer.city}"></p>
+	Country: <b th:text="${customer.country}"></p>
+	Phone: <b th:text="${customer.phone}"></p>
+	Email: <b th:text="${customer.email}"></b>
+</body>
+
+</html>

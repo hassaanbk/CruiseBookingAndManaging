@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Bookings</title>
+
+</head>
+
+<body>
+
+<table>
+
+        <thead>
+
+         <tr>
+
+           <th>Cruise ID</th>
+
+           <th>Cruise Name</th>
+
+           <th>Departure Date</th>
+           
+           <th>Duration(in Months)</th>
+           
+           <th>Price</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+          <tr th:each="cruise:${cruises}">
+
+             <td th:text="${cruise.cruiseId}">Cruise ID</td>
+
+             <td th:text="${cruise.cruiseName}">Cruise Name</td>
+
+             <td th:text="${cruise.departureDate}">Departure Date</td>  
+
+             <td th:text="${cruise.duration}">Duration</td>   
+
+             <td th:text="${cruise.price}">Price</td> 
+
+          </tr>
+
+        </tbody>
+
+    </table>
+    
+    <form action="booked" method="POST">
+		Customer ID: <input type="text" value="${customer.custId}"/>
+		Cruise Id: <input type="text" name="cruiseId"/> <br/>
+		Price: <input type="text" name="price"/> <br/>
+		Number of Guests: <input type="text" name="numberOfGuests"/> <br/>
+		<input type="submit" value="Book"/>
+	</form>
+
+</body>
+
+</html>

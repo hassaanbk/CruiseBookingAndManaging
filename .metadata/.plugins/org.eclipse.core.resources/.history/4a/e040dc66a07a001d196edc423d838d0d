@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Profile</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body>
+	Customer ID: <b th:text="${customer.custId}"></b><br>
+	First Name: <b th:text="${customer.firstName}"></b><br>
+	Last Name: <b th:text="${customer.lastName}"></b><br>
+	Address: <b th:text="${customer.Address}"></b><br>
+	City: <b th:text="${customer.city}"></b><br>
+	Country: <b th:text="${customer.country}"><b><br>
+	Phone: <b th:text="${customer.phone}"></b><br>
+	Email: <b th:text="${customer.email}"></b><br>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+package com.micro.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+//import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+@Controller
+public class AdminController {
+
+	@Autowired
+	private CruiseService cruiseService;
+	
+	@Autowired
+	private EmployeeService employeeService;
+	
+	@GetMapping("/")
+	private String home() {
+		return "home";
+	}
+	
+	@PostMapping("/login")
+	private String login(@RequestParam("username") String username,
+			@RequestParam("password") String password) {
+		
+		List<Employee> employees = (List<Employee>) employeeService.getAll();
+		
+		for(Employee e : employees) {
+			
+			String user =e.getUsername();
+			String pass = e.getPassword();
+			if(user.equals(username) && pass.equals(password))
+				return "dashboard";
+		}
+		
+			return "error";
+	}
+	
+}

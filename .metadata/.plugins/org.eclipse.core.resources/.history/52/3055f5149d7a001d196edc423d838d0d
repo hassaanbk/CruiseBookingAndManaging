@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+	<meta charset="ISO-8859-1">
+
+	<title>Insert title here</title>
+
+</head>
+
+<body>
+
+	<form action="register" method="POST">
+
+		Customer ID : <input type="text" name="custId" /> 
+		<span th:if="${#fields.hasErrors('custId')}" th:errors="*{custId}"></span></br>
+
+		First Name : <input type="text" name="firstName" />
+		<span th:if="${#fields.hasErrors('firstName')}" th:errors="*{firstName}"></span></br>
+
+		Last Name : <input type="text" name="lastName" /></br>
+
+		Address : <input type="text" name="address" />
+		<span th:if="${#fields.hasErrors('address')}" th:errors="*{address}"></span></br>
+
+		City : <input type="text" name="city" />
+		<span th:if="${#fields.hasErrors('city')}" th:errors="*{city}"></span></br>
+
+		Country : <input type="text" name="country" />
+		<span th:if="${#fields.hasErrors('country')}" th:errors="*{country}"></span></br>
+
+		Phone : <input type="text" name="phone" />
+		<span th:if="${#fields.hasErrors('phone')}" th:errors="*{phone}"></span></br>
+
+		Email : <input type="email" name="email" />
+		<span th:if="${#fields.hasErrors('email')}" th:errors="*{email}"></span></br>
+
+		Password : <input type="password" name="password" />
+		<span th:if="${#fields.hasErrors('password')}" th:errors="*{password}"></span></br>
+
+		<input type="submit" name="Add Employee" value="Register" />
+
+	</form>
+
+	<form action="login" method="POST">
+
+		Email : <input type="email" name="email" />
+		<span th:if="${#fields.hasErrors('email')}" th:errors="*{email}"></span></br>
+
+		Password : <input type="password" name="password" />
+		<span th:if="${#fields.hasErrors('password')}" th:errors="*{password}"></span></br>
+
+		<input type="submit" name="Login" value="Login" />
+
+	</form>
+
+</body>
+
+</html>

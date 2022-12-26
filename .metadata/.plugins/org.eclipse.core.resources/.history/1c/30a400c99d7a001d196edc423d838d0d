@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+	<meta charset="ISO-8859-1">
+
+	<title>Dashboard</title>
+
+</head>
+
+<body>
+	<form action="addCruise" method="POST">
+		Cruise ID: <input type="text" name="cruiseId"/>
+		<span th:if="${#fields.hasErrors('cruiseId')}" th:errors="*{cruiseId}"></span>
+		Cruise Destination: <input type="text" name="cruiseDestination" />
+		<span th:if="${#fields.hasErrors('cruiseDestination')}" th:errors="*{cruiseDestination}"></span> <br />
+		Cruise Line: <input type="text" name="cruiseLine" /> 
+		<span th:if="${#fields.hasErrors('cruiseLine')}" th:errors="*{cruiseLine}"></span><br />
+		Departure Date: <input type="text" name="departureDate" /> 
+		<span th:if="${#fields.hasErrors('departureDate')}" th:errors="*{departureDate}"></span><br />
+		Visiting Places: <input type="text" name="vistingPlaces" /> 
+		<span th:if="${#fields.hasErrors('vistingPlaces')}" th:errors="*{visitingPlaces}"></span><br />
+		Duration: <input type="text" name="duration" />
+		<span th:if="${#fields.hasErrors('duration')}" th:errors="*{duration}"></span> <br />
+		Price: <input type="text" name="price" /> 
+		<span th:if="${#fields.hasErrors('price')}" th:errors="*{price}"></span><br />
+		<input type="submit" value="Add Cruise" />
+	</form>
+
+</body>
+
+</html>

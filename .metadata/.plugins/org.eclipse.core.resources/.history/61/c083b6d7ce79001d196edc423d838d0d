@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Insert title here</title>
+
+</head>
+
+<body>
+	
+	Customer ID: <p th:text="${customer.custId}"></p>
+	<form action="profile" method="POST">
+		<input type="submit" value="View Profile"/>
+	</form>
+	<button action="edit" method="POST">Edit Profile</button>
+	<button action="book" method="POST">Book a cruise</button>
+	<button action="history" method="POST">History</button>
+</body>
+
+</html>

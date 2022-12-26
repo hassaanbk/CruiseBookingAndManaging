@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+	<meta charset="ISO-8859-1">
+
+	<title>Dashboard</title>
+
+</head>
+
+<body>
+	<form action="add" method="POST">
+		Cruise ID: <input type="text" name="cruiseId"></p>
+		Cruise Destination: <input type="text" name="cruiseDestination" /> <br />
+		Cruise Line: <input type="text" name="cruiseLine" /> <br />
+		Departure Date: <input type="text" name="departureDate" /> <br />
+		Visiting Places: <input type="text" name="vistingPlaces" /> <br />
+		Duration: <input type="text" name="duration" /> <br />
+		Price: <input type="text" name="price" /> <br />
+		<input type="submit" value="Cruise" />
+	</form>
+
+</body>
+
+</html>

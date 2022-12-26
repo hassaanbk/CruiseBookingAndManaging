@@ -1,0 +1,73 @@
+package com.micro.service;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import jakarta.validation.constraints.NotBlank;
+//import jakarta.persistence.Id;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.ToString;
+
+@Data
+@Builder
+@AllArgsConstructor
+@Document
+@ToString
+public class Employee {
+
+	@Id
+	private int empId;
+	//@NotBlank(message = "Name is mandatory")
+	private String empName;
+	//@NotBlank(message = "Username is mandatory")
+	private String username;
+	//@NotBlank(message = "Password is mandatory")
+	private String password;
+	
+	public Employee() {
+		
+	}
+
+	public Employee(int empId, String empName, String username, String password) {
+		super();
+		this.empId = empId;
+		this.empName = empName;
+		this.username = username;
+		this.password = password;
+	}
+
+	public int getEmpId() {
+		return empId;
+	}
+
+	public void setEmpId(int empId) {
+		this.empId = empId;
+	}
+
+	public String getEmpName() {
+		return empName;
+	}
+
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+
+	public String getUsername() {
+		return username;
+	}
+
+	public void setUsername(String username) {
+		this.username = username;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	
+}

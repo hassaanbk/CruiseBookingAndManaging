@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+	<meta charset="ISO-8859-1">
+
+	<title>Insert title here</title>
+
+</head>
+
+<body>
+
+	<form action="register" method="POST">
+
+		Employee ID : <input type="text" name="empId" /> </br>
+
+		Employee Name : <input type="text" name="empName" /></br>
+
+		Username : <input type="text" name="username" /></br>
+
+		Password : <input type="password" name="password" /></br>
+
+		<input type="submit" name="Add Employee" value="Register" />
+
+
+		<form action="login" method="POST">
+
+			Username : <input type="text" name="username" /></br>
+
+			Password : <input type="password" name="password" /></br>
+
+			<input type="submit" name="Login" value="Login" />
+
+		</form>
+
+</body>
+
+</html>

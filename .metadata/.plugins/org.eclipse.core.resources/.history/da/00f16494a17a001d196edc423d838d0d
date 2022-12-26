@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+	<meta charset="ISO-8859-1">
+
+	<title>Add</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body>
+	<form action="addCruise" method="POST">
+		Cruise ID: <input type="text" name="cruiseId" />
+		Cruise Destination: <input type="text" name="cruiseDestination" /> <br />
+		Cruise Line: <input type="text" name="cruiseLine" /> <br />
+		Departure Date: <input type="text" name="departureDate" /> <br />
+		Visiting Places: <input type="text" name="vistingPlaces" /> <br />
+		Duration: <input type="text" name="duration" /> <br />
+		Price: <input type="text" name="price" /> <br />
+		<input type="submit" value="Add Cruise" />
+	</form>
+
+</body>
+
+</html>

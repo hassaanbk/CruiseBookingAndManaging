@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+	<meta charset="ISO-8859-1">
+
+	<title>Home</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body class="container-fluid text-center ">
+
+	<form action="register" method="POST" class="col-md-6">
+
+		Customer ID : <input type="text" name="custId" /> </br>
+
+		First Name : <input type="text" name="firstName" /></br>
+
+		Last Name : <input type="text" name="lastName" /></br>
+
+		Address : <input type="text" name="address" /></br>
+
+		City : <input type="text" name="city" /></br>
+
+		Country : <input type="text" name="country" /></br>
+
+		Phone : <input type="text" name="phone" /></br>
+
+		Email : <input type="email" name="email" /></br>
+
+		Password : <input type="password" name="password" /></br>
+
+		<input type="submit" name="Add Employee" value="Register" />
+
+	</form>
+
+	<form action="login" method="POST">
+
+		Email : <input type="email" name="email" />
+
+		Password : <input type="password" name="password" />
+		<input type="submit" name="Login" value="Login" />
+
+	</form>
+
+</body>
+
+</html>

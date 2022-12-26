@@ -1,0 +1,45 @@
+package com.micro.service;
+
+import java.util.Objects;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import lombok.AllArgsConstructor;
+import reactor.core.publisher.Flux;
+import reactor.core.publisher.Mono;
+
+@Service
+@Transactional
+@AllArgsConstructor
+public class CruiseService {
+
+	@Autowired
+	private CruiseRepository cruiseRepo;
+
+	private Flux<Cruise> getAll() {
+		return cruiseRepo.findAll().switchIfEmpty(Flux.empty());
+	}
+
+	public Mono<Cruise> getById(final int id) {
+		return cruiseRepo.findById(id);
+	}
+
+	public Mono update(final int id, final Cruise cruise) {
+		return cruiseRepo.save(cruise);
+	}
+
+	public Mono save(final Cruise cruise) {
+		return cruiseRepo.save(cruise);
+	}
+
+	public Mono delete(final int id) {
+		final Mono<Cruise> dbCruise = getById(id);
+		if (Objects.isNull(dbCruise))
+			return Mono.empty();
+		return getById(id).switchIfEmpty(Mono.empty()).filter(Objects::nonNull)
+				.flatMap(cruiseToBeDeleted -> cruiseRepo.delete(cruiseToBeDeleted).then(Mono.just(cruiseToBeDeleted)));
+	}
+
+}

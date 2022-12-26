@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Bookings</title>
+
+</head>
+
+<body>
+
+<table>
+
+        <thead>
+
+         <tr>
+
+           <th>Cruise ID</th>
+
+           <th>Cruise Name</th>
+
+           <th>Departure Date</th>
+           
+           <th>Duration(in Months)</th>
+           
+           <th>Price</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+          <tr th:each="cruise:${cruises}">
+
+             <td th:text="${cruise.cruiseId}">Cruise ID</td>
+
+             <td th:text="${cruise.cruiseName}">Cruise Name</td>
+
+             <td th:text="${cruise.departureDate}">Departure Date</td>  
+
+             <td th:text="${cruise.duration}">Duration</td>   
+
+             <td th:text="${cruise.price}">Price</td> 
+
+          </tr>
+
+        </tbody>
+
+    </table>
+
+</body>
+
+</html>

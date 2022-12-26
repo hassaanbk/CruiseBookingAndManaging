@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>History</title>
+
+</head>
+
+<body>
+
+<table>
+
+        <thead>
+
+         <tr>
+
+           <th>Cruise ID</th>
+
+           <th>Cruise Destination</th>
+
+           <th>Cruise Line</th>
+           
+           <th>Departure Date</th>
+           
+           <th>Visiting Places</th>
+           
+           <th>Duration</th>
+           
+           <th>Price</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+          <tr th:each=":${bookings}">
+
+             <td th:text="${booking.bookingId}">Booking ID</td>
+
+             <td th:text="${booking.custId}">Customer ID</td>
+
+             <td th:text="${booking.cruiseId}">Cruise ID</td>
+
+             <td th:text="${booking.numberOfGuests}">Number of Guests</td>
+
+             <td th:text="${booking.totalAmount}">Total Amount</td>  
+
+             <td th:text="${booking.status}">Status</td> 
+
+          </tr>
+
+        </tbody>
+
+    </table>
+
+</body>
+
+</html>

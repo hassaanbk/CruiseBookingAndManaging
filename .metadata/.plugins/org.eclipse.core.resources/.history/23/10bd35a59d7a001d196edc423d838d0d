@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Bookings</title>
+
+</head>
+
+<body>
+<h1 th:text="${customer.custId}"></h1>
+<table>
+
+        <thead>
+
+         <tr>
+
+           <th>Cruise ID</th>
+
+           <th>Cruise Name</th>
+
+           <th>Departure Date</th>
+           
+           <th>Duration(in Months)</th>
+           
+           <th>Price</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+          <tr th:each="cruise:${cruises}">
+
+             <td th:text="${cruise.cruiseId}">Cruise ID</td>
+
+             <td th:text="${cruise.cruiseName}">Cruise Name</td>
+
+             <td th:text="${cruise.departureDate}">Departure Date</td>  
+
+             <td th:text="${cruise.duration}">Duration</td>   
+
+             <td th:text="${cruise.price}">Price</td> 
+
+          </tr>
+
+        </tbody>
+
+    </table>
+    
+    <form action="booked" method="POST">
+		Customer ID: <input type="text" name="custId"></p>
+		<span th:if="${#fields.hasErrors('custId')}" th:errors="*{custId}"></span>
+		Cruise Id: <input type="text" name="cruiseId"/> 
+		<span th:if="${#fields.hasErrors('cruiseId')}" th:errors="*{cruiseId}"></span><br/>
+		Price: <input type="text" name="price"/>
+		<span th:if="${#fields.hasErrors('price')}" th:errors="*{price}"></span> <br/>
+		Number of Guests: <input type="text" name="numberOfGuests"/> 
+		<span th:if="${#fields.hasErrors('numberOfGuests')}" th:errors="*{numberOfGuests}"></span><br/>
+		<input type="submit" value="Book"/>
+	</form>
+
+</body>
+
+</html>

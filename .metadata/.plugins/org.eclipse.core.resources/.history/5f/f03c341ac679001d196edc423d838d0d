@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Insert title here</title>
+
+</head>
+
+<body>
+
+      <table>
+
+        <thead>
+
+         <tr>
+
+           <th>Id</th>
+
+           <th>First Name</th>
+
+           <th>Password</th>
+
+           <th>Email</th>
+
+           <th>Address</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+          <tr>
+
+             <td th:text="${customer.custId}">Id</td>
+
+             <td th:text="${customer.firstName}">First Name</td>
+
+             <td th:text="${customer.password}">Password</td>
+
+             <td th:text="${customer.email}">Email</td>
+
+             <td th:text="${customer.address}">Address</td>  
+
+          </tr>
+
+        </tbody>
+
+    </table>
+
+</body>
+
+</html>

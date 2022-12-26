@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>History</title>
+
+</head>
+
+<body>
+
+<table>
+
+        <thead>
+
+         <tr>
+
+           <th>Cruise ID</th>
+
+           <th>Cruise Destination</th>
+
+           <th>Cruise Line</th>
+           
+           <th>Departure Date</th>
+           
+           <th>Visiting Places</th>
+           
+           <th>Duration</th>
+           
+           <th>Price</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody>
+
+          <tr th:each="cruise:${cruises}">
+
+             <td th:text="${cruise.cruiseId}">Cruise ID</td>
+
+             <td th:text="${cruise.cruiseDestination}">Cruise Destination</td>
+
+             <td th:text="${cruise.cruiseLine}">Cruise Line</td>
+
+             <td th:text="${cruise.departureDate}">Departure Date</td>
+
+             <td th:text="${cruise.visitingPlaces}">Visiting Places</td>  
+
+             <td th:text="${cruise.duration}">Duration</td> 
+
+             <td th:text="${cruise.price}">Price</td> 
+
+          </tr>
+
+        </tbody>
+
+    </table>
+    <form action="edit" method="POST">
+		Cruise ID: <input type="text" name="cruiseId"></p>
+		Cruise Destination: <input type="text" name="cruiseDestination" /> <br />
+		Cruise Line: <input type="text" name="cruiseLine" /> <br />
+		Departure Date: <input type="text" name="departureDate" /> <br />
+		Visiting Places: <input type="text" name="vistingPlaces" /> <br />
+		Duration: <input type="text" name="duration" /> <br />
+		Price: <input type="text" name="price" /> <br />
+		<input type="submit" value="Add Cruise" />
+	</form>
+	
+	<form action="delete" method"POST">
+		Cruise ID: <input type="text" name="cruiseId"/>
+	</form>
+
+</body>
+
+</html>
